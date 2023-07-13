@@ -5,6 +5,7 @@ import Team from '../../TeamProfileGenerator.png';
 import Scheduler from '../../WorkDayScheduler.png';
 import Manager from '../../EmployeeManager.png';
 import Horesion from '../../Screenshot 2023-02-06 at 4.41.02 PM.png';
+import Mernia from '../../chronicleOfMernia.png';
 
 export default function Portfolio() {
   return (
@@ -68,6 +69,15 @@ export default function Portfolio() {
         <img src={Team} alt="Team Profile Generator"></img>
       </a>
       <h4> Team Profile Generator </h4>
+
+<br></br>
+<br></br>
+<br></br>
+
+      <a href="https://github.com/kpetrosky/Chronicles-of-Mernia" target="_blank" rel="noreferrer">
+        <img className='Mernia'src={Mernia} alt="Chronicles of Mernia"></img>
+      </a>
+      <h4> Chronicles od MERNia </h4>
 
       
     </div>
