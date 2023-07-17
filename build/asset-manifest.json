@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c2ff495.css",
-    "main.js": "/static/js/main.8595f2a3.js",
-    "static/media/chronicleOfMernia.png": "/static/media/chronicleOfMernia.6d05cced06700fce3cb5.png",
-    "static/media/PlayersParadise.png": "/static/media/PlayersParadise.cd22c58dae19dc5275c7.png",
-    "static/media/Screenshot 2023-02-06 at 4.41.02 PM.png": "/static/media/Screenshot 2023-02-06 at 4.41.02 PM.63361512f28321f6b1b9.png",
-    "static/media/TeamProfileGenerator.png": "/static/media/TeamProfileGenerator.a029edd67c02ad21da9d.png",
-    "static/media/EmployeeManager.png": "/static/media/EmployeeManager.1c038b38dea923bcca02.png",
-    "static/media/WorkDayScheduler.png": "/static/media/WorkDayScheduler.f51786cf46608a61e56d.png",
-    "static/media/OnlyRecipesScreenshot.png": "/static/media/OnlyRecipesScreenshot.202b3fd2cf2125fd145a.png",
-    "static/media/Resume.pdf": "/static/media/Resume.2c3f7f54a44d4ec5ecb7.pdf",
-    "index.html": "/index.html",
-    "main.7c2ff495.css.map": "/static/css/main.7c2ff495.css.map",
-    "main.8595f2a3.js.map": "/static/js/main.8595f2a3.js.map"
+    "main.css": "/react-portfolio/static/css/main.7c2ff495.css",
+    "main.js": "/react-portfolio/static/js/main.142d3155.js",
+    "static/media/chronicleOfMernia.png": "/react-portfolio/static/media/chronicleOfMernia.6d05cced06700fce3cb5.png",
+    "static/media/PlayersParadise.png": "/react-portfolio/static/media/PlayersParadise.cd22c58dae19dc5275c7.png",
+    "static/media/Screenshot 2023-02-06 at 4.41.02 PM.png": "/react-portfolio/static/media/Screenshot 2023-02-06 at 4.41.02 PM.63361512f28321f6b1b9.png",
+    "static/media/TeamProfileGenerator.png": "/react-portfolio/static/media/TeamProfileGenerator.a029edd67c02ad21da9d.png",
+    "static/media/EmployeeManager.png": "/react-portfolio/static/media/EmployeeManager.1c038b38dea923bcca02.png",
+    "static/media/WorkDayScheduler.png": "/react-portfolio/static/media/WorkDayScheduler.f51786cf46608a61e56d.png",
+    "static/media/OnlyRecipesScreenshot.png": "/react-portfolio/static/media/OnlyRecipesScreenshot.202b3fd2cf2125fd145a.png",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.2c3f7f54a44d4ec5ecb7.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.7c2ff495.css.map": "/react-portfolio/static/css/main.7c2ff495.css.map",
+    "main.142d3155.js.map": "/react-portfolio/static/js/main.142d3155.js.map"
   },
   "entrypoints": [
     "static/css/main.7c2ff495.css",
-    "static/js/main.8595f2a3.js"
+    "static/js/main.142d3155.js"
   ]
 }
